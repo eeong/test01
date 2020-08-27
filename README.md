@@ -18,4 +18,22 @@ git config --global user.email 'discography8@gmail.com'
 ```bash
 git clone [Shift + ins]
 ```
+<br> <br>
 
+# Visual Studio 설치 및 단축키
+
+## 설치
+
+- 구글에서 visual studio code 검색 후 다운로드
+- 다운로드가 완료되면 설치를 시작하고 체크박스는 거의 체크 하여 설치 완료
+- **확장기능관리자** (좌측 하단의 테트리스) 관리자를 클릭하고 검색창에 Korean을 검색하여 한국어 UI모드 설치.
+- **Live Server**를 설치
+- **material** 테마 아이콘 
+
+## 단축키
+- `ctrl + ,` : 설정창
+- `ctrl + j` : 터미널
+- `ctrl + b` : 좌측 날개 토글
+- `alt` 를 누른 상태로 마우스 클릭하여 다중커서 기능 사용 `esc`로 해제
+- `alt + ` 화살표로 라인을 이동
+- `alt + shift +`화살표로 라인을 복사
